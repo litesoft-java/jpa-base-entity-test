@@ -6,12 +6,12 @@
 
     <groupId>org.litesoft</groupId>
     <artifactId>jpa-base-entity-test</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <name>jpa-base-entity-test</name>
 
-    <description>Small utilities for normalizing, verifying, and rejecting (exceptions) values</description>
+    <description>Package peer to support testing of JPA entities that are using "jpa-base-entity"</description>
 
 	<url>https://github.com/litesoft-java/jpa-base-entity-test</url>
 
