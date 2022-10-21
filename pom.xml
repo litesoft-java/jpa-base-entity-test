@@ -11,7 +11,7 @@
 
     <name>jpa-base-entity-test</name>
 
-    <description>Package peer to support testing of JPA entities that are using "jpa-base-entity"</description>
+    <description>Package peer to support testing of JPA/DataJDBC entities that are using "jpa-base-entity"</description>
 
 	<url>https://github.com/litesoft-java/jpa-base-entity-test</url>
 
