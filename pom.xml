@@ -6,7 +6,7 @@
 
     <groupId>org.litesoft</groupId>
     <artifactId>jpa-base-entity-test</artifactId>
-    <version>4.0.7</version>
+    <version>4.0.10</version>
     <packaging>jar</packaging>
 
     <name>jpa-base-entity-test</name>
@@ -60,7 +60,7 @@
 		<dependency>
 			<groupId>org.litesoft</groupId>
 			<artifactId>jpa-base-entity</artifactId>
-			<version>[4.0.7,4.1)</version>
+			<version>[4.0.10,4.1)</version>
 		</dependency>
     </dependencies>
 
